@@ -3,6 +3,6 @@ public class addi {
         System.out.println("hiiii");
         System.out.println("Rajeev");
         System.out.println("Singh");
-        System.out.println("22");
+        System.out.println("21");
     }
 }
